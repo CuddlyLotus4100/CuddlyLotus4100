@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CuddlyLotus4100
+- 👀 I’m interested in game development 
+- 🌱 I’m currently learning c# and coding
